@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving existing testing and architecture, improving outcomes on tech projects [@techlete](/techlete).
+- 🔭 I’m currently working on improving existing testing and architecture, improving outcomes on tech projects [@techlete](https://github.com/techlete).
 - 🌱 I’m currently learning about patience, persistence, advanced disaster recovery and compassionate, effective communication.
 - 👯 I’m looking to collaborate on OpenSource Libre projects, that respect the users as much as the dev team.
 - 🤔 I’m looking for help with patience, compassionate and effective communication, commercial opportunities to deliver value.
