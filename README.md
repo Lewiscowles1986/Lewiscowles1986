@@ -8,3 +8,5 @@
 - 📫 How to reach me: open an issue or submit a PR, preferably both in-order given.
 - 😄 Pronouns: he/him or anything neutral.
 - ⚡ Fun fact: Computers are not magic boxes. They are applied physics through (often commodity A.K.A mass-market) engineering. You need to set boundaries if you want to do cool things.
+
+If you're thinking (cor, this fella does, nothing; I also have separate work GitHub accounts [latest Job, moved from GitLab end of July 2023](https://github.com/LewiscowlesMotive)
