@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him or anything neutral.
 - ⚡ Fun fact: Computers are not magic boxes. They are applied physics through (often commodity A.K.A mass-market) engineering. You need to set boundaries if you want to do cool things.
 
-If you're thinking (cor, this fella does, nothing; I also have separate work GitHub accounts [latest Job, moved from GitLab end of July 2023](https://github.com/LewiscowlesMotive)
+If you're thinking (cor, this fella does, nothing; I also have separate work GitHub accounts [latest Job, moved from GitLab end of July 2023](https://github.com/LewisCowlesMotive?tab=overview&from=2023-08-01&to=2023-12-31)
