@@ -11,4 +11,4 @@
 
 If you're thinking (corr, this fella does, nothing; I also have separate work GitHub accounts <a href="https://github.com/LewisCowlesMotive?tab=overview"> ![latest Job, moved from GitLab end of July 2023](https://github.com/Lewiscowles1986/Lewiscowles1986/assets/2605791/66977382-267c-429b-b8af-dc823c6536d2) </a>
 
-![Check out my GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lewiscowles1986&include_all_commits=true&show_icons=true)
+![Check out my GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lewiscowles1986&include_all_commits=true&show_icons=true&theme=midnight-purple)
